@@ -1,2 +1,2 @@
-This is FileA
+This is FileA has now changed from cosole
 This is testB
